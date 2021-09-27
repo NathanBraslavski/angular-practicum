@@ -10,22 +10,33 @@ You will start by duplicating the repository, then fixing few bugs, adding a sim
   
     (Do **not** fork. If you do you will not be able to change the repo to _private_)
 
+### How to submit
+**For each bug (part 2) create new pull request** (4 PRs in total).
+Create a new branch for every fix and feature. We suggest to name the branchs something like `fix\bug-<N>\<...>` and `feat\<...>`.
+
+when you are done create a **pull request for each branch** that we will be use to review and discuss your work. 
+**Do not merge the pull requests** 
+
 ## Part 2: Bugs & Feature
 In this part you are required to fix 3 bugs and implement 1 feature.
 
-**Please consider creating a new branch for each fix and feature. And creating a pull request for each branch to the `main` branch would be appreciated.**
+Reminder: create a new branch and open a new PR for each bug and feature.
 
   - ## Bug fixing (15 points x 3)
     Each bug designed to test a different Angular skill. You will find all the information and instructions in each issue:
-    [Bug 1](https://github.com/natanbr/angular-practicum/issues/1)
-    [Bug 2](https://github.com/natanbr/angular-practicum/issues/2)
-    [Bug 3](https://github.com/natanbr/angular-practicum/issues/3). Each but worth 15 points in the final score.
+    
+    [Bug #1](https://github.com/natanbr/angular-practicum/issues/1)
+    
+    [Bug #2](https://github.com/natanbr/angular-practicum/issues/2)
+    
+    [Bug #3](https://github.com/natanbr/angular-practicum/issues/3)
 
     Hint: Bug 2 and Bug 3 can be fixed with 1-3 lines of code each, try to think about the simplest way to fix them.
     If a bug takes you more then 30min consider moving on to the next task.
     
   - ## New feature (20 points)
     you are required to implement a global notification. In this [feature request](https://github.com/natanbr/angular-practicum/issues/4) you will find all the requirements and an example. 
+    
 ## Part 3: Code review (20 points)
   Lastly, in this part you are required to do a quick code review.
   Our goal is to see if you can recognize all the problematic and "smelly" code issues. 
