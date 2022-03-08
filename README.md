@@ -12,9 +12,9 @@ You will start by duplicating the repository, then fixing few bugs, adding a sim
 
 ### How to submit 🚀
 **For each bug and feature (part 2) create new pull request** (4 PRs in total).
-We suggest to name the branchs something like `fix\bug-<N>\<...>` and `feat\<...>`.
+We suggest to name the branches something like `fix\bug-<N>\<...>` and `feat\<...>`.
 
-👉 Please create a new branchs for every fix and feature 👈.
+👉 Please create a new branches for every fix and feature 👈.
 
 when you are done create a **pull request for each branch** that we will be use to review and discuss your work. 
 **Do not merge the pull requests** 
