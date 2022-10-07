@@ -1,7 +1,9 @@
 # Practicum
 This practicum was designed to test some of your skills including: working with Github, Angular, NgRx and clean code practices. 
 
-You will start by duplicating the repository, then fixing few bugs, adding a simple feature, and finaly duing some code reivew. Tip: Before you start coding we recommend to read the instructions to help you with the time planning. 
+You will start by duplicating the repository, then fixing few bugs, adding a simple feature, and finaly duing some code reivew. 
+
+⚠️ Please read the following instuctions carfully 
 
 ## Part 1: Setting up your repository
 1. First you need to create a new GitHub ⚠️ **private** ⚠️ repository 
@@ -14,7 +16,7 @@ You will start by duplicating the repository, then fixing few bugs, adding a sim
 **For each bug and feature (part 2) create new pull request** (4 PRs in total).
 We suggest to name the branches something like `fix\bug-<N>\<...>` and `feat\<...>`.
 
-👉 Please create a new branches for every fix and feature 👈.
+⚠️ Please create a new branches for every fix and feature.
 
 when you are done create a **pull request for each branch** that we will be use to review and discuss your work. 
 **Do not merge the pull requests** 
@@ -39,6 +41,8 @@ Reminder: create a new branch and open a new PR for each bug and feature.
   - ## New feature (20 points)
     ✨ you are required to implement a global notification. In this [feature request](https://github.com/natanbr/angular-practicum/issues/4) you will find all the requirements and an example. 
     
+   ⚠️ Do not use any external library. In this part we are interested in seeing your code. 
+   
 ## Part 3: Code review (20 points) 👀
   Lastly, in this part you are required to do a quick code review.
   Our goal is to see if you can recognize all the problematic and "smelly" code issues. 
