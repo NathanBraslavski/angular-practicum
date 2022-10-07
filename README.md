@@ -14,7 +14,7 @@ You will start by duplicating the repository, then fixing few bugs, adding a sim
 **For each bug and feature (part 2) create new pull request** (4 PRs in total).
 We suggest to name the branches something like `fix\bug-<N>\<...>` and `feat\<...>`.
 
-👉 Please create a new branches for every fix and feature 👈.
+⚠️ Please create a new branches for every fix and feature.
 
 when you are done create a **pull request for each branch** that we will be use to review and discuss your work. 
 **Do not merge the pull requests** 
@@ -38,6 +38,8 @@ Reminder: create a new branch and open a new PR for each bug and feature.
     
   - ## New feature (20 points)
     ✨ you are required to implement a global notification. In this [feature request](https://github.com/natanbr/angular-practicum/issues/4) you will find all the requirements and an example. 
+
+    ⚠️ Do not use any external library such as Bootstrap or Material. In this part we want to see your code.
     
 ## Part 3: Code review (20 points) 👀
   Lastly, in this part you are required to do a quick code review.
